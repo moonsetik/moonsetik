@@ -55,15 +55,6 @@
 
 ---
 
-## 📊 GitHub статистика
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moonsetik&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moonsetik&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 ## 📬 Контакты
 
 * **Telegram:** [@v1rtuozik](https://t.me/v1rtuozik) *(предпочтительный способ связи)*
