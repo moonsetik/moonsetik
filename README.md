@@ -1,61 +1,61 @@
-# Егор Николенко
+# Egor Nikolenko
 ### C++ Software Engineer
 
-Специализируюсь на разработке высокопроизводительного ПО, системном программировании и Backend-разработке. 
-Выбираю C++ за полный контроль над памятью и возможность создавать эффективные решения. Знаю современные стандарты (C++17/20), понимаю принципы работы аллокаторов и многопоточности. Уделяю внимание чистой архитектуре, рефакторингу и оптимизации кода.
+I specialize in high-performance software development, systems programming, and backend development. 
+I choose C++ for its full memory control and the ability to create highly efficient solutions. I am proficient in modern standards (C++17/20) and have a deep understanding of allocator mechanics and multithreading. I am highly focused on clean architecture, refactoring, and code optimization.
 
 ---
 
-## ⚙️ Технический стек
+## ⚙️ Technical Stack
 
-**🔹 Основной стек (Core C++)**
-* **Языки и стандарты:** C++ (C++11/14/17/20)
-* **Парадигмы и концепции:** ООП, Алгоритмы и структуры данных, Многопоточность, Рефакторинг
-* **Системное ПО:** Управление памятью, работа с аллокаторами, профилирование и оптимизация
-* **Библиотеки и инструменты:** STL, CMake, Git, GitHub, Visual Studio
+**🔹 Core Stack (Core C++)**
+* **Languages and Standards:** C++ (C++11/14/17/20)
+* **Paradigms and Concepts:** OOP, Algorithms and Data Structures, Multithreading, Refactoring
+* **Systems Programming:** Memory management, working with allocators, profiling, and optimization
+* **Libraries and Tools:** STL, CMake, Git, GitHub, Visual Studio
 
-**🔹 Дополнительные технологии**
-* **🎨 Компьютерная графика:** OpenGL, GLSL (программируемый конвейер, написание шейдеров, попиксельное освещение)
-* **🖥 GUI и десктоп:** Qt (разработка интерфейсов, кастомные виджеты)
+**🔹 Additional Technologies**
+* **🎨 Computer Graphics:** OpenGL, GLSL (programmable pipeline, shader programming, per-pixel lighting)
+* **🖥 GUI and Desktop:** Qt (UI development, custom widgets)
 * **🌐 Backend:** C#, .NET, REST API
 
 ---
 
-## 💻 Избранные проекты
+## 💻 Selected Projects
 
-**🧊 Графическое 3D-приложение с динамическим освещением**
-*Реализовал программируемый графический конвейер с нуля.*
-* Написал парсер OBJ-файлов и GLSL-шейдеры для попиксельного освещения (модель Фонга) и динамического текстурирования.
-* Спроектировал физику движения (follow-chain), систему коллизий и архитектуру с переключением камер.
-* *Стек: C++, OpenGL, GLSL.*
+**🧊 3D Graphics Application with Dynamic Lighting**
+*Implemented a programmable graphics pipeline from scratch.*
+* Wrote an OBJ file parser and GLSL shaders for per-pixel lighting (Phong lighting model) and dynamic texturing.
+* Designed movement physics (follow-chain), a collision system, and an architecture with camera switching.
+* *Stack: C++, OpenGL, GLSL.*
 
-**📦 Визуализатор структур данных (Аналоги STL)**
-*Разработал собственные реализации контейнеров с оптимизированным управлением памятью.*
-* Написал кастомные структуры данных, обеспечив корректную работу с аллокаторами.
-* Создал интерактивный GUI для наглядной демонстрации работы алгоритмов и внутреннего устройства контейнеров.
-* *Стек: C++, STL, Qt.*
+**📦 Data Structure Visualizer (Custom STL-like Containers)**
+*Developed custom container implementations with optimized memory management.*
+* Wrote custom data structures, ensuring correct and efficient operation with allocators.
+* Created an interactive GUI for a clear, visual demonstration of algorithm operations and the internal mechanics of the containers.
+* *Stack: C++, STL, Qt.*
 
-**📊 Кроссплатформенные десктоп-утилиты**
-*Создал инструменты для обработки табличных данных и пакетной конвертации графики.*
-* Настроил кроссплатформенную систему сборки и автоматизации.
-* *Стек: C++, CMake.*
+**📊 Cross-platform Desktop Utilities**
+*Created tools for processing tabular data and batch image conversion.*
+* Configured a cross-platform build and automation system.
+* *Stack: C++, CMake.*
 
-**🔗 REST API сервер (CRUD)**
-*Разработал серверную часть для управления сущностями.*
-* Реализовал полный набор CRUD-методов, провел тестирование endpoints и валидацию ответов.
-* *Стек: C#, .NET, Postman.*
-
----
-
-## 📈 Практика и развитие
-
-* 🎓 Профильное обучение по программе «Разработчик C++» (Яндекс).
-* 🧠 Регулярное решение алгоритмических задач (LeetCode) для поддержания навыков.
-* 🔍 Анализ архитектуры и исходного кода крупных open-source проектов.
+**🔗 REST API Server (CRUD)**
+*Developed the server-side application for entity management.*
+* Implemented a full set of CRUD methods, conducted endpoint testing, and response validation.
+* *Stack: C#, .NET, Postman.*
 
 ---
 
-## 📬 Контакты
+## 📈 Practice and Development
 
-* **Telegram:** [@v1rtuozik](https://t.me/v1rtuozik) *(предпочтительный способ связи)*
+* 🎓 Specialized training in the "C++ Developer" program (Yandex).
+* 🧠 Regularly solving algorithmic problems (LeetCode) to maintain and sharpen skills.
+* 🔍 Analyzing the architecture and source code of large-scale open-source projects.
+
+---
+
+## 📬 Contacts
+
+* **Telegram:** [@v1rtuozik](https://t.me/v1rtuozik) *(preferred contact method)*
 * **Email:** [nikolenkoegor7002@gmail.com](mailto:nikolenkoegor7002@gmail.com)
